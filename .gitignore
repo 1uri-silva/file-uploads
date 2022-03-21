@@ -1,0 +1,6 @@
+node_modules
+.env
+
+# exception to the rule
+!tmp/.gitkeep 
+!tmp/uploads/.gitkeep 
